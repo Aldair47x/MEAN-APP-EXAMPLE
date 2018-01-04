@@ -1,0 +1,29 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aldair47x/MEAN-APP-EXAMPLE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aldair47x/MEAN-APP-EXAMPLE/issues"
+  },
+  "homepage": "https://github.com/Aldair47x/MEAN-APP-EXAMPLE#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongojs": "^2.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.7"
+  }
+}
