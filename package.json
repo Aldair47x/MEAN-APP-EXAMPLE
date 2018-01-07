@@ -18,11 +18,16 @@
   },
   "homepage": "https://github.com/Aldair47x/MEAN-APP-EXAMPLE#readme",
   "dependencies": {
+    "core-js": "^2.5.3",
     "cors": "^2.8.4",
     "ejs": "^2.5.7",
     "express": "^4.16.2",
     "express-promise-router": "^2.0.0",
-    "mongojs": "^2.4.1"
+    "jquery": "^3.2.1",
+    "mongojs": "^2.4.1",
+    "popper.js": "^1.12.9",
+    "rxjs": "^5.5.6",
+    "zone.js": "^0.8.19"
   },
   "devDependencies": {
     "nodemon": "^1.14.7"
